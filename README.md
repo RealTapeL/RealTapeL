@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTapeL)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTapeL&show_icons=true&theme=transparent)
 
 Here are some ideas to get you started:
 
