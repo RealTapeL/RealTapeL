@@ -1,11 +1,32 @@
-## This is me 💁
+<h1 align="center">RealTapeL</h1>
 
-#### Hello everyone,my name is RealTapeL. I'm a computer student at a university. I have been learning c language and robot programming since I was very young. Currently, my research directions are visual tasks, data processing and large models. My hobbies are embedded systems, such as Raspberry PI and Jetson. I like to automate my life. I like buying good-looking products, clothes and food. Suffering from congenital heart disease and severe depression, sometimes one may not be optimistic. Hopefully, it will get better in the future.This is my personal blog:https://blog-1og9.vercel.app/
+<p align="center">
+  Vision AI &middot; AI Agents &middot; Data Automation &middot; Edge Computing
+</p>
 
+<p align="center">
+  <a href="https://blog-1og9.vercel.app/">Blog</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/RealTapeL?tab=repositories">Projects</a>
+</p>
 
-## My technology stack
+---
 
+### Focus
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTapeL&layout=compact)
+- **Vision & multimodal AI** — perception, reasoning, and anomaly detection
+- **Agents & automation** — turning useful workflows into reliable tools
+- **Edge computing** — building with Raspberry Pi, Jetson, and embedded systems
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+### Selected work
+
+- [BrandPulse](https://github.com/RealTapeL/BrandPulse) — an agent system for brand intelligence
+- [Xiao_i_Chat](https://github.com/RealTapeL/Xiao_i_Chat) — large-language-model work for vocational education
+- [AnomalyDINO](https://github.com/RealTapeL/AnomalyDINO) — few-shot visual anomaly detection with DINOv2
+
+### Recent activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RealTapeL&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=fb7185&area_color=172554&area=true&hide_border=true&custom_title=Recent%20activity" />
+  <img alt="Recent GitHub activity" src="https://github-readme-activity-graph.vercel.app/graph?username=RealTapeL&bg_color=ffffff&color=0f172a&line=2563eb&point=e11d48&area_color=eff6ff&area=true&hide_border=true&custom_title=Recent%20activity" width="100%" />
+</picture>
