@@ -1,32 +1,52 @@
-<h1 align="center">RealTapeL</h1>
-
 <p align="center">
-  Vision AI &middot; AI Agents &middot; Data Automation &middot; Edge Computing
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1100&color=2563EB&center=true&vCenter=true&width=720&lines=RealTapeL+%E2%80%94+Vision+AI+%26+Agents;Building+useful+systems%2C+one+commit+at+a+time." alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <a href="https://blog-1og9.vercel.app/">Blog</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/RealTapeL?tab=repositories">Projects</a>
+  <a href="https://blog-1og9.vercel.app/"><img src="https://img.shields.io/badge/Blog-2563EB?style=flat-square&logo=readme&logoColor=white" alt="Blog" /></a>
+  <a href="https://github.com/RealTapeL?tab=repositories"><img src="https://img.shields.io/badge/Projects-E11D48?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
----
+## About me
 
-### Focus
+Computer science student working on **vision AI**, **AI agents**, data automation, and edge computing with Raspberry Pi and Jetson.
 
-- **Vision & multimodal AI** — perception, reasoning, and anomaly detection
-- **Agents & automation** — turning useful workflows into reliable tools
-- **Edge computing** — building with Raspberry Pi, Jetson, and embedded systems
+## Tech stack
 
-### Selected work
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,raspberrypi,linux,docker,git,github&theme=light&perline=9" alt="Python, PyTorch, TensorFlow, OpenCV, Raspberry Pi, Linux, Docker, Git, and GitHub" />
+</p>
+
+## Selected work
 
 - [BrandPulse](https://github.com/RealTapeL/BrandPulse) — an agent system for brand intelligence
 - [Xiao_i_Chat](https://github.com/RealTapeL/Xiao_i_Chat) — large-language-model work for vocational education
 - [AnomalyDINO](https://github.com/RealTapeL/AnomalyDINO) — few-shot visual anomaly detection with DINOv2
 
-### Recent activity
+## GitHub stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RealTapeL&bg_color=0d1117&color=c9d1d9&line=60a5fa&point=fb7185&area_color=172554&area=true&hide_border=true&custom_title=Recent%20activity" />
-  <img alt="Recent GitHub activity" src="https://github-readme-activity-graph.vercel.app/graph?username=RealTapeL&bg_color=ffffff&color=0f172a&line=2563eb&point=e11d48&area_color=eff6ff&area=true&hide_border=true&custom_title=Recent%20activity" width="100%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RealTapeL&show_icons=true&hide_border=true&title_color=60A5FA&icon_color=FB7185&text_color=E2E8F0&bg_color=0D1117" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=RealTapeL&show_icons=true&hide_border=true&title_color=2563EB&icon_color=E11D48&text_color=0F172A&bg_color=FFFFFF" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RealTapeL&hide_border=true&background=0D1117&ring=60A5FA&fire=FB7185&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=94A3B8&stroke=1E3A8A" />
+    <img height="170" src="https://streak-stats.demolab.com?user=RealTapeL&hide_border=true&background=FFFFFF&ring=2563EB&fire=E11D48&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=2563EB&sideLabels=475569&dates=64748B&stroke=DBEAFE" alt="GitHub streak" />
+  </picture>
+</p>
+
+## 3D contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</p>
+
+## Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-snake-dark.svg" />
+    <img src="./assets/github-contribution-snake.svg" alt="Snake animation over the contribution graph" width="100%" />
+  </picture>
+</p>

@@ -1,0 +1,33 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-snake.svg?color_snake=#2563EB&color_dots=#F8FAFC,#DBEAFE,#93C5FD,#3B82F6,#E11D48
+            assets/github-contribution-snake-dark.svg?color_snake=#60A5FA&color_dots=#0D1117,#1E3A8A,#2563EB,#60A5FA,#FB7185
+      - name: Commit generated snake
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add assets
+          git diff --staged --quiet || (git commit -m "chore: update contribution snake" && git push)
