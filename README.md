@@ -36,12 +36,6 @@ Computer science student working on **vision AI**, **AI agents**, data automatio
   </picture>
 </p>
 
-## 3D contributions
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-</p>
-
 ## Contribution snake
 
 <p align="center">
