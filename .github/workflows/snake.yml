@@ -1,3 +1,4 @@
+# A change to this file also refreshes the generated SVGs.
 name: Generate contribution snake
 
 on:
