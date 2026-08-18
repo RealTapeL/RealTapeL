@@ -23,19 +23,6 @@ Computer science student working on **vision AI**, **AI agents**, data automatio
 - [Xiao_i_Chat](https://github.com/RealTapeL/Xiao_i_Chat) — large-language-model work for vocational education
 - [AnomalyDINO](https://github.com/RealTapeL/AnomalyDINO) — few-shot visual anomaly detection with DINOv2
 
-## GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RealTapeL&show_icons=true&hide_border=true&title_color=60A5FA&icon_color=FB7185&text_color=E2E8F0&bg_color=0D1117" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=RealTapeL&show_icons=true&hide_border=true&title_color=2563EB&icon_color=E11D48&text_color=0F172A&bg_color=FFFFFF" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RealTapeL&hide_border=true&background=0D1117&ring=60A5FA&fire=FB7185&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=94A3B8&stroke=1E3A8A" />
-    <img height="170" src="https://streak-stats.demolab.com?user=RealTapeL&hide_border=true&background=FFFFFF&ring=2563EB&fire=E11D48&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=2563EB&sideLabels=475569&dates=64748B&stroke=DBEAFE" alt="GitHub streak" />
-  </picture>
-</p>
-
 ## Contribution snake
 
 <p align="center">
